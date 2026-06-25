@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # DISKO Website Prototype
 
@@ -27,3 +28,6 @@
   - `GET /api/orders` lists the authenticated user's orders.
   - `GET /api/orders/:id` returns one authenticated order.
   
+=======
+# DISKO
+>>>>>>> d7e1f3a29a65e869416c55805167a7d6b294b8c7
