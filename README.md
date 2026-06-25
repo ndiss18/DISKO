@@ -2,8 +2,6 @@
 
   # DISKO Website Prototype
 
-  This is a code bundle for DISKO Website Prototype. The original project is available at https://www.figma.com/design/EnuQavKiBwL2NtcqBdn23O/DISKO-Website-Prototype.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
